@@ -1,0 +1,48 @@
+C:\Users\nikola\Desktop\WEB_HOSTING\app\WebHosting\WebHosting\bin\Debug\WebHosting.exe.config
+C:\Users\nikola\Desktop\WEB_HOSTING\app\WebHosting\WebHosting\bin\Debug\WebHosting.exe
+C:\Users\nikola\Desktop\WEB_HOSTING\app\WebHosting\WebHosting\bin\Debug\WebHosting.pdb
+C:\Users\nikola\Desktop\WEB_HOSTING\app\WebHosting\WebHosting\bin\Debug\FluentNHibernate.dll
+C:\Users\nikola\Desktop\WEB_HOSTING\app\WebHosting\WebHosting\bin\Debug\Iesi.Collections.dll
+C:\Users\nikola\Desktop\WEB_HOSTING\app\WebHosting\WebHosting\bin\Debug\NHibernate.dll
+C:\Users\nikola\Desktop\WEB_HOSTING\app\WebHosting\WebHosting\bin\Debug\FluentNHibernate.pdb
+C:\Users\nikola\Desktop\WEB_HOSTING\app\WebHosting\WebHosting\bin\Debug\FluentNHibernate.xml
+C:\Users\nikola\Desktop\WEB_HOSTING\app\WebHosting\WebHosting\bin\Debug\Iesi.Collections.xml
+C:\Users\nikola\Desktop\WEB_HOSTING\app\WebHosting\WebHosting\bin\Debug\NHibernate.xml
+C:\Users\nikola\Desktop\WEB_HOSTING\app\WebHosting\WebHosting\obj\Debug\WebHosting.csprojResolveAssemblyReference.cache
+C:\Users\nikola\Desktop\WEB_HOSTING\app\WebHosting\WebHosting\obj\Debug\WebHosting.Form1.resources
+C:\Users\nikola\Desktop\WEB_HOSTING\app\WebHosting\WebHosting\obj\Debug\WebHosting.Properties.Resources.resources
+C:\Users\nikola\Desktop\WEB_HOSTING\app\WebHosting\WebHosting\obj\Debug\WebHosting.csproj.GenerateResource.Cache
+C:\Users\nikola\Desktop\WEB_HOSTING\app\WebHosting\WebHosting\obj\Debug\WebHosting.exe
+C:\Users\nikola\Desktop\WEB_HOSTING\app\WebHosting\WebHosting\obj\Debug\WebHosting.pdb
+E:\sa desktopa 2\WEB_HOSTING\app\WebHosting\WebHosting\bin\Debug\WebHosting.exe.config
+E:\sa desktopa 2\WEB_HOSTING\app\WebHosting\WebHosting\obj\Debug\WebHosting.exe
+E:\sa desktopa 2\WEB_HOSTING\app\WebHosting\WebHosting\obj\Debug\WebHosting.pdb
+E:\sa desktopa 2\WEB_HOSTING\app\WebHosting\WebHosting\bin\Debug\WebHosting.exe
+E:\sa desktopa 2\WEB_HOSTING\app\WebHosting\WebHosting\bin\Debug\WebHosting.pdb
+E:\sa desktopa 2\WEB_HOSTING\app\WebHosting\WebHosting\bin\Debug\FluentNHibernate.dll
+E:\sa desktopa 2\WEB_HOSTING\app\WebHosting\WebHosting\bin\Debug\Iesi.Collections.dll
+E:\sa desktopa 2\WEB_HOSTING\app\WebHosting\WebHosting\bin\Debug\NHibernate.dll
+E:\sa desktopa 2\WEB_HOSTING\app\WebHosting\WebHosting\bin\Debug\FluentNHibernate.pdb
+E:\sa desktopa 2\WEB_HOSTING\app\WebHosting\WebHosting\bin\Debug\FluentNHibernate.xml
+E:\sa desktopa 2\WEB_HOSTING\app\WebHosting\WebHosting\bin\Debug\Iesi.Collections.xml
+E:\sa desktopa 2\WEB_HOSTING\app\WebHosting\WebHosting\bin\Debug\NHibernate.xml
+E:\sa desktopa 2\WEB_HOSTING\app\WebHosting\WebHosting\obj\Debug\WebHosting.csprojResolveAssemblyReference.cache
+E:\sa desktopa 2\WEB_HOSTING\app\WebHosting\WebHosting\obj\Debug\WebHosting.Form1.resources
+E:\sa desktopa 2\WEB_HOSTING\app\WebHosting\WebHosting\obj\Debug\WebHosting.Properties.Resources.resources
+E:\sa desktopa 2\WEB_HOSTING\app\WebHosting\WebHosting\obj\Debug\WebHosting.csproj.GenerateResource.Cache
+D:\sa desktopa 2\WEB_HOSTING\app\WebHosting\WebHosting\bin\Debug\WebHosting.exe.config
+D:\sa desktopa 2\WEB_HOSTING\app\WebHosting\WebHosting\bin\Debug\WebHosting.exe
+D:\sa desktopa 2\WEB_HOSTING\app\WebHosting\WebHosting\bin\Debug\WebHosting.pdb
+D:\sa desktopa 2\WEB_HOSTING\app\WebHosting\WebHosting\bin\Debug\FluentNHibernate.dll
+D:\sa desktopa 2\WEB_HOSTING\app\WebHosting\WebHosting\bin\Debug\Iesi.Collections.dll
+D:\sa desktopa 2\WEB_HOSTING\app\WebHosting\WebHosting\bin\Debug\NHibernate.dll
+D:\sa desktopa 2\WEB_HOSTING\app\WebHosting\WebHosting\bin\Debug\FluentNHibernate.pdb
+D:\sa desktopa 2\WEB_HOSTING\app\WebHosting\WebHosting\bin\Debug\FluentNHibernate.xml
+D:\sa desktopa 2\WEB_HOSTING\app\WebHosting\WebHosting\bin\Debug\Iesi.Collections.xml
+D:\sa desktopa 2\WEB_HOSTING\app\WebHosting\WebHosting\bin\Debug\NHibernate.xml
+D:\sa desktopa 2\WEB_HOSTING\app\WebHosting\WebHosting\obj\Debug\WebHosting.csprojResolveAssemblyReference.cache
+D:\sa desktopa 2\WEB_HOSTING\app\WebHosting\WebHosting\obj\Debug\WebHosting.Form1.resources
+D:\sa desktopa 2\WEB_HOSTING\app\WebHosting\WebHosting\obj\Debug\WebHosting.Properties.Resources.resources
+D:\sa desktopa 2\WEB_HOSTING\app\WebHosting\WebHosting\obj\Debug\WebHosting.csproj.GenerateResource.Cache
+D:\sa desktopa 2\WEB_HOSTING\app\WebHosting\WebHosting\obj\Debug\WebHosting.exe
+D:\sa desktopa 2\WEB_HOSTING\app\WebHosting\WebHosting\obj\Debug\WebHosting.pdb

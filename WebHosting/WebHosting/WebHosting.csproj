@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BFAA7083-1E75-4C3C-BAE8-76B4FF006459}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WebHosting</RootNamespace>
+    <AssemblyName>WebHosting</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FluentNHibernate">
+      <HintPath>..\packages\FluentNHibernate.2.0.1.0\lib\net40\FluentNHibernate.dll</HintPath>
+    </Reference>
+    <Reference Include="Iesi.Collections">
+      <HintPath>..\packages\Iesi.Collections.4.0.1.4000\lib\net40\Iesi.Collections.dll</HintPath>
+    </Reference>
+    <Reference Include="NHibernate">
+      <HintPath>..\packages\NHibernate.4.0.3.4000\lib\net40\NHibernate.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataProvider.cs" />
+    <Compile Include="DataLayer.cs" />
+    <Compile Include="Entiteti\Administrator.cs" />
+    <Compile Include="Entiteti\Baza.cs" />
+    <Compile Include="Entiteti\Ekonomista.cs" />
+    <Compile Include="Entiteti\Fizicka.cs" />
+    <Compile Include="Entiteti\Hostuje.cs" />
+    <Compile Include="Entiteti\KontakOsoba.cs" />
+    <Compile Include="Entiteti\Korisnici.cs" />
+    <Compile Include="Entiteti\Linux.cs" />
+    <Compile Include="Entiteti\Narucio.cs" />
+    <Compile Include="Entiteti\Narudzbina.cs" />
+    <Compile Include="Entiteti\Neodredjeno.cs" />
+    <Compile Include="Entiteti\Odredjeno.cs" />
+    <Compile Include="Entiteti\Odrzava.cs" />
+    <Compile Include="Entiteti\Paketi.cs" />
+    <Compile Include="Entiteti\Pravna.cs" />
+    <Compile Include="Entiteti\Prima.cs" />
+    <Compile Include="Entiteti\Programer.cs" />
+    <Compile Include="Entiteti\Programira.cs" />
+    <Compile Include="Entiteti\Script.cs" />
+    <Compile Include="Entiteti\Server.cs" />
+    <Compile Include="Entiteti\Serverski.cs" />
+    <Compile Include="Entiteti\Staticki.cs" />
+    <Compile Include="Entiteti\TehnickaPodrska.cs" />
+    <Compile Include="Entiteti\TehnickaStruka.cs" />
+    <Compile Include="Entiteti\Windows.cs" />
+    <Compile Include="Entiteti\Zaposleni.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mapiranja\AdministratorMap.cs" />
+    <Compile Include="Mapiranja\BazaMap.cs" />
+    <Compile Include="Mapiranja\EkonomistaMap.cs" />
+    <Compile Include="Mapiranja\FizickaMap.cs" />
+    <Compile Include="Mapiranja\HostujeMap.cs" />
+    <Compile Include="Mapiranja\KontaktOsobaMap.cs" />
+    <Compile Include="Mapiranja\KorisniciMap.cs" />
+    <Compile Include="Mapiranja\LinuxMap.cs" />
+    <Compile Include="Mapiranja\NarucioMap.cs" />
+    <Compile Include="Mapiranja\NarudzbinaMap.cs" />
+    <Compile Include="Mapiranja\NeodredjenoMap.cs" />
+    <Compile Include="Mapiranja\OdredjenoMap.cs" />
+    <Compile Include="Mapiranja\OdrzavaMap.cs" />
+    <Compile Include="Mapiranja\PaketiMap.cs" />
+    <Compile Include="Mapiranja\PravnaMap.cs" />
+    <Compile Include="Mapiranja\PrimaMap.cs" />
+    <Compile Include="Mapiranja\ProgramerMap.cs" />
+    <Compile Include="Mapiranja\ProgramiraMap.cs" />
+    <Compile Include="Mapiranja\ScriptMap.cs" />
+    <Compile Include="Mapiranja\ServerMap.cs" />
+    <Compile Include="Mapiranja\ServerskiMap.cs" />
+    <Compile Include="Mapiranja\StatickiMap.cs" />
+    <Compile Include="Mapiranja\TehnickaPodrskaMap.cs" />
+    <Compile Include="Mapiranja\TehnickaStrukaMap.cs" />
+    <Compile Include="Mapiranja\WindowsMap.cs" />
+    <Compile Include="Mapiranja\ZaposleniMap.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
