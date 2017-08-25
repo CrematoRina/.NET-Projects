@@ -1,0 +1,25 @@
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\mongodb\MongoDB_Repository\MongoDB_Repository\bin\Debug\MongoDB_Repository.exe
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\mongodb\MongoDB_Repository\MongoDB_Repository\bin\Debug\MongoDB_Repository.pdb
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\mongodb\MongoDB_Repository\MongoDB_Repository\bin\Debug\MongoDB.Bson.dll
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\mongodb\MongoDB_Repository\MongoDB_Repository\bin\Debug\MongoDB.Driver.dll
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\mongodb\MongoDB_Repository\MongoDB_Repository\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\mongodb\MongoDB_Repository\MongoDB_Repository\obj\x86\Debug\MongoDB_Repository.Form1.resources
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\mongodb\MongoDB_Repository\MongoDB_Repository\obj\x86\Debug\MongoDB_Repository.Properties.Resources.resources
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\mongodb\MongoDB_Repository\MongoDB_Repository\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\mongodb\MongoDB_Repository\MongoDB_Repository\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\mongodb\MongoDB_Repository\MongoDB_Repository\obj\x86\Debug\MongoDB_Repository.exe
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\mongodb\MongoDB_Repository\MongoDB_Repository\obj\x86\Debug\MongoDB_Repository.pdb
+C:\Users\Rina\Desktop\MongoDB_Repository\MongoDB_Repository\bin\Debug\MongoDB_Repository.exe
+C:\Users\Rina\Desktop\MongoDB_Repository\MongoDB_Repository\bin\Debug\MongoDB_Repository.pdb
+C:\Users\Rina\Desktop\MongoDB_Repository\MongoDB_Repository\bin\Debug\MongoDB.Bson.dll
+C:\Users\Rina\Desktop\MongoDB_Repository\MongoDB_Repository\bin\Debug\MongoDB.Driver.dll
+C:\Users\Rina\Desktop\MongoDB_Repository\MongoDB_Repository\obj\x86\Debug\MongoDB_Repository.csprojResolveAssemblyReference.cache
+C:\Users\Rina\Desktop\MongoDB_Repository\MongoDB_Repository\obj\x86\Debug\MongoDB_Repository.Form1.resources
+C:\Users\Rina\Desktop\MongoDB_Repository\MongoDB_Repository\obj\x86\Debug\MongoDB_Repository.Properties.Resources.resources
+C:\Users\Rina\Desktop\MongoDB_Repository\MongoDB_Repository\obj\x86\Debug\MongoDB_Repository.csproj.GenerateResource.Cache
+C:\Users\Rina\Desktop\MongoDB_Repository\MongoDB_Repository\obj\x86\Debug\MongoDB_Repository.exe
+C:\Users\Rina\Desktop\MongoDB_Repository\MongoDB_Repository\obj\x86\Debug\MongoDB_Repository.pdb
+C:\Users\Rina\Desktop\MongoDB_Repository\MongoDB_Repository\obj\x86\Debug\MongoDB_Repository.DodajIme.resources
+C:\Users\Rina\Desktop\MongoDB_Repository\MongoDB_Repository\obj\x86\Debug\MongoDB_Repository.AzurirajBroj.resources
+C:\Users\Rina\Desktop\MongoDB_Repository\MongoDB_Repository\obj\x86\Debug\MongoDB_Repository.ObrisiIme.resources
+C:\Users\Rina\Desktop\MongoDB_Repository\MongoDB_Repository\obj\x86\Debug\MongoDB_Repository.SortList.resources
